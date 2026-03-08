@@ -1,20 +1,25 @@
 # MO-IT101-Group13
 
 ## Project Title
-Exponential Model Math Challenge
+MotorPH Payroll System
 
 ## Team Details
+- Arnica Madera
+- Francis Kristofer Reyes
+- Heidi Dsouza
 - Mhonic Panuringan
-- Member 2
-- Member 3
-- Member 4
 
 ## Program Details
-This program analyzes data using exponential models. It generates projections for future values and helps interpret trends based on the provided dataset.
+The MotorPH Payroll System is a basic payroll application developed to automate the computation of weekly employee salaries. The system presents employee information and calculates weekly gross and net salary based on hours worked and standard government deductions.
+
+The program reads employee attendance records, determines the total number of hours worked, and applies payroll rules such as late deductions and government-mandated contributions including SSS, PhilHealth, Pag-IBIG, and withholding tax.
+
+This system aims to reduce manual payroll processing, minimize human error, and improve payroll transparency for both payroll staff and employees. The application also serves as the foundation for future payroll automation and system enhancements.
 
 ## Project Plan
-1. Gather and analyze the given data
-2. Design the program logic
-3. Implement the program using Java
-4. Test the program and verify results
-5. Prepare documentation and final submission
+
+The project plan outlines the development timeline, task assignments, and deliverables for the MotorPH Payroll System. It includes requirement analysis, system visualization, module development, testing, and final project submission.
+
+For the detailed project schedule and task breakdown, please refer to the document below:
+
+🔗 [MotorPH Payroll System Project Plan](https://docs.google.com/document/d/1mpLrSxv61ybDVstO-zwGnzmO3tVIBsMABgEt5RyUeiM/edit?usp=sharing)
