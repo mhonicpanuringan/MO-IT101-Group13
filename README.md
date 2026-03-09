@@ -10,7 +10,7 @@ MotorPH Payroll System
 - Mhonic Panuringan
 
 ## Program Details
-The MotorPH Payroll System is a basic payroll application developed to automate the computation of weekly employee salaries. The system presents employee information and calculates weekly gross and net salary based on hours worked and standard government deductions.
+The MotorPH Payroll System is a basic payroll application developed to automate the computation of monthly employee salaries. The system presents employee information and calculates weekly gross and net salary based on hours worked and standard government deductions.
 
 The program reads employee attendance records, determines the total number of hours worked, and applies payroll rules such as late deductions and government-mandated contributions including SSS, PhilHealth, Pag-IBIG, and withholding tax.
 
